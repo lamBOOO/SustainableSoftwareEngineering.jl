@@ -20,7 +20,7 @@
 ## Running the Project
 
 1. **Start Julia:**
-   Open Julia REPL by running `julia` in your terminal.
+   Open the Julia REPL by running `julia` in your terminal.
 
 2. **Activate and Instantiate the Project:**
    ```julia
